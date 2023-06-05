@@ -1,0 +1,38 @@
+input{
+    border: none;
+    border-bottom: 2px solid black;
+}
+.deleteBtn{
+    background-color: rgb(212, 40, 40);
+    border-color: rgb(212, 40, 40);
+}
+h4{
+    border-radius: 10px;
+    max-width: 500px;
+    box-shadow: 5px 5px 5px rgb(54, 54, 54);
+    
+}
+.itemlistHeader{
+    background-color: rgb(180, 87, 118);
+    border-radius: 10px;
+    color: white;
+}
+h1{
+    background-color:aquamarine; 
+    border-radius: 10px;
+}
+
+.btn {
+    width: 30%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+.btn:hover {
+    background-color: #45a049;
+  }
